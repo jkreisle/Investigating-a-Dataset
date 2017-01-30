@@ -4,10 +4,10 @@ Find a baseball statistic that best predicts how many wins a team will earn in a
 
 ###Skills applied
 
-- Python
-- NumPy
-- Pandas
-- Seaborn
+    - Python
+    - NumPy
+    - Pandas
+    - Seaborn
 
 ## Summary
 
